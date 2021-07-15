@@ -1,0 +1,7 @@
+version: '2.4'
+
+services:
+  api:
+    build:
+      target: prod
+    image: vettingnodejs:prod
