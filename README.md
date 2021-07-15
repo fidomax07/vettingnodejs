@@ -14,7 +14,7 @@ Due to the simple business logic, the choice of the database was not an issue if
 The API is deployed and can be tested in the following link:   
 https://vettingnodejs.herokuapp.com   
 with the following Postman collection:   
-https://www.getpostman.com/collections/b0eae9a6a67ab1d2eb4f   
+https://www.getpostman.com/collections/d4fbe648489810977df4   
 by setting the following Postman environment variables:
 ```shell
 url=<above base url of the API>
